@@ -1,0 +1,13 @@
+html body{
+    margin: 0;
+}
+.col-6 p{
+    text-align: left;
+   font-family: 'IBM Plex Mono', monospace;
+    font-size: 20px;
+}
+.modal-content{
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 20px;
+}
+
